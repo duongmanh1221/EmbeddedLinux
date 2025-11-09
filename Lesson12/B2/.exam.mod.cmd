@@ -1,0 +1,1 @@
+savedcmd_/home/duong/Duong/EmbeddedLinux/Lesson12/B2/exam.mod := printf '%s\n'   exam.o | awk '!x[$$0]++ { print("/home/duong/Duong/EmbeddedLinux/Lesson12/B2/"$$0) }' > /home/duong/Duong/EmbeddedLinux/Lesson12/B2/exam.mod

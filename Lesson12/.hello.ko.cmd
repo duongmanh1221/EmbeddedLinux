@@ -1,0 +1,1 @@
+savedcmd_/home/duong/Duong/EmbeddedLinux/Lesson12/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/duong/Duong/EmbeddedLinux/Lesson12/hello.ko /home/duong/Duong/EmbeddedLinux/Lesson12/hello.o /home/duong/Duong/EmbeddedLinux/Lesson12/hello.mod.o

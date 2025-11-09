@@ -1,0 +1,1 @@
+savedcmd_/home/duong/Duong/EmbeddedLinux/Lesson12/B2/exam.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/duong/Duong/EmbeddedLinux/Lesson12/B2/exam.ko /home/duong/Duong/EmbeddedLinux/Lesson12/B2/exam.o /home/duong/Duong/EmbeddedLinux/Lesson12/B2/exam.mod.o

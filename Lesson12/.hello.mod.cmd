@@ -1,0 +1,1 @@
+savedcmd_/home/duong/Duong/EmbeddedLinux/Lesson12/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/duong/Duong/EmbeddedLinux/Lesson12/"$$0) }' > /home/duong/Duong/EmbeddedLinux/Lesson12/hello.mod

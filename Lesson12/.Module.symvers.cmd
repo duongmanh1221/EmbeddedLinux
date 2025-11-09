@@ -1,0 +1,1 @@
+savedcmd_/home/duong/Duong/EmbeddedLinux/Lesson12/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/duong/Duong/EmbeddedLinux/Lesson12/Module.symvers -T /home/duong/Duong/EmbeddedLinux/Lesson12/modules.order -i Module.symvers -e 
